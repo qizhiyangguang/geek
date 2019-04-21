@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buju/buju.iml" filepath="$PROJECT_DIR$/buju/buju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donghua/donghua.iml" filepath="$PROJECT_DIR$/donghua/donghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gekk/gekk.iml" filepath="$PROJECT_DIR$/gekk/gekk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lian4demo/lian4demo.iml" filepath="$PROJECT_DIR$/lian4demo/lian4demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qizhonga/qizhonga.iml" filepath="$PROJECT_DIR$/qizhonga/qizhonga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qizhongb/qizhongb.iml" filepath="$PROJECT_DIR$/qizhongb/qizhongb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaoshixun.iml" filepath="$PROJECT_DIR$/xiaoshixun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuoye1/zuoye1.iml" filepath="$PROJECT_DIR$/zuoye1/zuoye1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuoye2/zuoye2.iml" filepath="$PROJECT_DIR$/zuoye2/zuoye2.iml" />
+    </modules>
+  </component>
+</project>

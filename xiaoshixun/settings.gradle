@@ -1,0 +1,1 @@
+include ':app', ':lian4demo', ':qizhonga', ':qizhongb', ':zuoye1', ':zuoye2', ':gekk', ':donghua', ':buju', ':umeng'
